@@ -2,5 +2,6 @@
 #include<conio.h>
 main()
 {
-  printf("hello world");
+  printf("hello world\n");
+  printf("brach first");
   }
